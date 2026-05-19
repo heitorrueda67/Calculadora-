@@ -1,12 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Meu Primeiro Programa em Python
-Autor: [Seu Nome]
-Data: [Data de Hoje]
-Descrição: Programa básico para aprender GitHub
-"""
-
+Alterando o rquivo
+"""D
 # Importações
 import datetime
 import random
