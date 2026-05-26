@@ -1,9 +1,4 @@
 def saudacao(nome):
-  return f'Tenha um otimo final de semana, {nome}
- 
-def soma (n1,n2):
+  return f" bom dia, {nome}! Tenha um ótimo dia!"
 
- resultado = n1+n2
- return(resultado)
-
-print(saudacao('valentina'))
+print(saudacao("mundo"))
